@@ -13,7 +13,7 @@
 - UVPowTruck ✅
 - AVHealthDrone
 - AVSupplyTruck ✅
-- NVScorpian
+- NVScorpian ✅
 - UVScorpian
 ## Todo list Icon
 ## Todo list Button
