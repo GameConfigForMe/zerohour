@@ -7,11 +7,11 @@
 - NVRocketBuggy ✅
 - NAVRocketAPC ✅
 - AVGuardDrone ✅
-- AVRepairDrone
+- AVRepairDrone ✅
 - AVPowTruck ✅
 - NVPowTruck ✅
 - UVPowTruck ✅
-- AVHealthDrone
+- AVHealthDrone ✅
 - AVSupplyTruck ✅
 - NVScorpian ✅
 - UVScorpian
