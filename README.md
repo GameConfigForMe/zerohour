@@ -14,7 +14,8 @@
 - AVHealthDrone ✅
 - AVSupplyTruck ✅
 - NVScorpian ✅
-- UVScorpian
+- UVScorpian ✅
+- UVEWTroopCrawler 
 ## Todo list Icon
 ## Todo list Button
 ## Todo list CommandSet
