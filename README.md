@@ -15,7 +15,9 @@
 - AVSupplyTruck ✅
 - NVScorpian ✅
 - UVScorpian ✅
-- UVEWTroopCrawler 
+- UVEWTroopCrawler ✅
+- SovietNukeSolo
+- SovietIronCurt
 ## Todo list Icon
 ## Todo list Button
 ## Todo list CommandSet
