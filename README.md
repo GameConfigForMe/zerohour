@@ -4,20 +4,20 @@
 - AVPredator ✅
 - NVPredator ✅
 - Knight ✅
-- NVRocketBuggy ✅
-- NAVRocketAPC ✅
-- AVGuardDrone ✅
-- AVRepairDrone ✅
-- AVPowTruck ✅
-- NVPowTruck ✅
-- UVPowTruck ✅
+- NVRocketBuggy ✅ ✅
+- NAVRocketAPC ✅ ✅
+- AVGuardDrone ✅ ✅
+- AVRepairDrone ✅ ✅
+- AVPowTruck ✅ ✅
+- NVPowTruck ✅ ✅
+- UVPowTruck ✅ ✅
 - AVHealthDrone ✅
-- AVSupplyTruck ✅
-- NVScorpian ✅
-- UVScorpian ✅
-- UVEWTroopCrawler ✅
-- SovietNukeSolo
-- SovietIronCurt
+- AVSupplyTruck ✅ ✅
+- NVScorpian ✅ ✅
+- UVScorpian ✅ ✅
+- UVEWTroopCrawler ✅ ✅
+- SovietNukeSolo ✅ ✅
+- AlliesSpySat ✅ ✅
 ## Todo list Icon
 ## Todo list Button
 ## Todo list CommandSet
